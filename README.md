@@ -1,4 +1,4 @@
-# 📚 Practical-Files
+#  Practical-Files
 
 A collection of practical files, lab manuals, and assignments from various Computer Science and Information Technology subjects. This repository serves as a centralized place to store and access practical work completed during coursework.
 
