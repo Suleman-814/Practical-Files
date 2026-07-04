@@ -33,7 +33,7 @@ This repository is created to:
 - Share practical work for educational purposes
 - Track updates using Git and GitHub
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
@@ -42,7 +42,7 @@ This repository is created to:
 
 2. Open the required practical file using Microsoft Word or a compatible document viewer.
 
-## 📌 Note
+##  Note
 
 These files are intended for learning and reference purposes only. Feel free to use them for study, but avoid submitting them as your own work where originality is required.
 
