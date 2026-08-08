@@ -27,7 +27,6 @@ The repository currently includes practical files for the following subjects:
 ## 🎯 Purpose
 
 This repository is created to:
-
 - Store practical files in one place
 - Maintain a backup of coursework
 - Share practical work for educational purposes
