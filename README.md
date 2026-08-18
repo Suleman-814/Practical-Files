@@ -36,7 +36,7 @@ This repository is created to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Practical-Files.git
+   git clone https://github.com/Suleman-814/Practical-Files.git
    ```
 
 2. Open the required practical file using Microsoft Word or a compatible document viewer.
