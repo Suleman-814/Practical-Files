@@ -9,7 +9,6 @@ The repository currently includes practical files for the following subjects:
 - 🤖 Artificial Intelligence
 - 🔗 Blockchain
 - ☁️ Cloud Computing
-- 💻 Compiler Design
 - 🧠 Deep Learning
 - 🌐 Computer Networks
 
